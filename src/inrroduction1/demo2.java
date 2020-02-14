@@ -13,6 +13,7 @@ public class demo2 {
 		driver.get("http://www.google.com");
 		System.out.println("welcome to git by tester team");
 		System.out.println("welcome to git changes in master branch");
+		System.out.println("hello git ");
 
 	}
 
