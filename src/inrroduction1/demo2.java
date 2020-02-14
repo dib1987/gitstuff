@@ -12,6 +12,7 @@ public class demo2 {
 		WebDriver driver= new ChromeDriver();
 		driver.get("http://www.google.com");
 		System.out.println("welcome to git by tester team");
+		System.out.println("welcome to git changes in master branch");
 
 	}
 
